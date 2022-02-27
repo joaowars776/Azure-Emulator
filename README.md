@@ -5,7 +5,7 @@ Ready for localhost
 
 
 
-# Install Xampp, put all the contents of "CMS & SWF" in htdocs, upload the database in the name 'habbo', and turn on the emulator
+# Install Xampp (PHP 5.4), put all the contents of "CMS & SWF" in htdocs, upload the database in the name 'habbo', and turn on the emulator
 
 
 
