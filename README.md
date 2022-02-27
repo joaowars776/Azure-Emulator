@@ -5,8 +5,6 @@ Ready for localhost
 
 
 
-TUTORIAL
-
 # Install Xampp, put all the contents of "CMS & SWF" in htdocs, upload the database in the name 'habbo', and turn on the emulator
 
 
