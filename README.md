@@ -10,6 +10,4 @@ I recommend Basilisk from Quackster (https://forum.ragezone.com/f353/portable-br
 
 direct link: http://www.mediafire.com/file/o9tknqhdlo655yc/Basilisk-Portable.exe/file
 
-or use Chrome Portable
-
-PRODUCTION-201508190847-536139618
+# PRODUCTION-201508190847-536139618
