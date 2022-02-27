@@ -1,4 +1,4 @@
-# Azure Emulator Pack
+# Azure Emulator v2.0.100 Build 190 Pack
 
 Ready for localhost
 
@@ -14,3 +14,6 @@ I recommend Basilisk from Quackster (https://forum.ragezone.com/f353/portable-br
 direct link: http://www.mediafire.com/file/o9tknqhdlo655yc/Basilisk-Portable.exe/file
 
 # PRODUCTION-201508190847-536139618
+
+
+by: TimNL, Jamal, Diesel, Boris, Lucca, Antoine, Jaden & IhToN.
