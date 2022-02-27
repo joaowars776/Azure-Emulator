@@ -1,0 +1,10 @@
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Enclosure\bin\Debug\Azure.Enclosure.dll
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Enclosure\bin\Debug\Azure.Enclosure.pdb
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Enclosure\obj\Debug\Azure.Enclosure.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Enclosure\obj\Debug\Azure.Enclosure.dll
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Enclosure\obj\Debug\Azure.Enclosure.pdb
+C:\Users\Lucas\Desktop\Habbo\Bluz Source\Bluz Source\Azure\Azure.Enclosure\bin\Debug\Azure.Enclosure.dll
+C:\Users\Lucas\Desktop\Habbo\Bluz Source\Bluz Source\Azure\Azure.Enclosure\bin\Debug\Azure.Enclosure.pdb
+C:\Users\Lucas\Desktop\Habbo\Bluz Source\Bluz Source\Azure\Azure.Enclosure\obj\Debug\Azure.Enclosure.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Habbo\Bluz Source\Bluz Source\Azure\Azure.Enclosure\obj\Debug\Azure.Enclosure.dll
+C:\Users\Lucas\Desktop\Habbo\Bluz Source\Bluz Source\Azure\Azure.Enclosure\obj\Debug\Azure.Enclosure.pdb

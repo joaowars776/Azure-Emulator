@@ -1,0 +1,24 @@
+#top 
+{ 
+    padding-top: 9px; 
+    padding-bottom: 0px; 
+    padding-left: 15px; 
+    padding-right: 15px; 
+    color: #FFF; 
+    background-image: url('/web-gallery/v2/images/test/i_bar.png') !important; 
+} 
+@-moz-document url-prefix() 
+{ 
+  #top 
+  { 
+    padding-top: 7px; 
+  } 
+} 
+.alignleft { 
+    float: left; 
+} 
+.alignright { 
+    float: right; 
+} 
+
+}  

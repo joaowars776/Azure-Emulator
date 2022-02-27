@@ -1,0 +1,3 @@
+Pet Training
+<img src="http://habboo-a.akamaihd.net/c_images/hot_campaign_images_no/cb_pets_160x60.gif" hspace="10" align="left" vspace="0"/><p>Each Pet has the ability to level up from 1 to 20. Every time you train your pet, you will receive experience. The more you train your pet, the more commands your pet will learn. Some training commands require accessories, like water bowls or toys.</p><p>After training, Pets will need food, water and rest. Some foods give your pet more energy than others. Finally, make sure to scratch your pet often - They will listen to you more!</p>
+</div>

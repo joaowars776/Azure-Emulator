@@ -1,0 +1,25 @@
+Navegue pelos quartos
+<span class="padding-top"><br></span><h3>Encontre quartos</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Use o Navegador para explorar o mundo maravilhoso do Habbo! Agora, você pode facilmente encontrar quartos através de filtros, como nome de quarto, proprietário, nome do grupo ou tags.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>As quatro categorias</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>As quatro categorias representam diferentes visões para cada quarto: os Oficiais, Todos os quartos, Eventos e O meu mundo. Cada uma mostra algo diferente.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Oficial</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Estes quartos pertencem ao Habbo Hotel. Por exemplo: espaços públicos, salas de campanha, quartos selecionados pela equipe, etc.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Todos os quartos</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Aqui estarão literalmente todos os quartos - exceto os que estão definidos como &quot;invisível&quot;! Os resultados serão apresentados de acordo com a finalidade de cada quarto.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Eventos</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Aqui você encontrará quartos reservados a eventos especiais. Os quartos serão apresentados de acordo com o objetivo de cada um.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>O meu mundo</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Nesta categoria, você encontrará todos os seus quartos; quartos de amigos e dos seus grupos e ainda os quartos que você visita frequentemente.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Pesquisa</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Escolha a opção que deseja e em seguida, selecione os critérios, de modo a filtrar a sua pesquisa. Por fim, digite o texto com o que você está procurando e pressione Enter! Os resultados serão aparecerão instantaneamente.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Resultados da pesquisa</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Os resultados serão apresentados através de uma lista de salas com diversas categorias e serão exibidos automaticamente. Para obter ainda mais opções, basta expandir a sua pesquisa.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Você pode optar por ocultar ou mostrar mais resultados em diferentes categorias, pressionando <b>+</b> e <b>-</b>. Você também pode optar por ver cada categoria através de listas ou visualizando as miniaturas. Além disso, todas as suas escolhas são guardadas automaticamente, para a próxima vez que entrar no hotel!</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Retroceder</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Para voltar atrás, carregue sempre no botão do canto superior esquerdo.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Salve suas pesquisas</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Cada pesquisa que você faz pode ser salva através das opções de filtragem que você forneceu, permitindo uma visualização rápida e fácil do que está acontecendo no (tendo em conta os seus interesses). Basta pressionar o ícone laranja <b>relâmpago</b> para salvar a busca na coluna da esquerda.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Ajuste o tamanho da janela</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Para ajustar o tamanho da janela, clique no canto inferior direito e arraste o Navegador. Você pode optar por ocultar ou exibir o painel do lado esquerdo, pressionando no botão cinza. Todas as suas escolhas são guardadas automaticamente para uma próxima visita.</p><span class="padding-bottom"><br></span>
+

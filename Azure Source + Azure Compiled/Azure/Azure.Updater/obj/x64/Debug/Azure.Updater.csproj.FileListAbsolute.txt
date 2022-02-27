@@ -1,0 +1,5 @@
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Updater\bin\x64\Debug\Azure.Updater.dll
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Updater\bin\x64\Debug\Azure.Updater.pdb
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Updater\obj\x64\Debug\Azure.Updater.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Updater\obj\x64\Debug\Azure.Updater.dll
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Updater\obj\x64\Debug\Azure.Updater.pdb

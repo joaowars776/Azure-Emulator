@@ -1,0 +1,148 @@
+<ifModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+ErrorDocument 404 /error.php
+ErrorDocument 500 /error.php
+
+</ifModule>
+
+<ifModule mod_php5.c>
+	php_value zlib.output_compression 16386
+	php_value register_globals off
+	php_value session.use_trans_sid 0
+	php_value default_charset iso-8859-1
+</ifModule>
+
+RewriteEngine On
+RewriteRule ^(.*)\.html $1\.php 
+
+RewriteRule ^room/(.*)$ ./room.php?roomId=$1
+
+RewriteRule ^ase/hotel/us/housekeeping(|/)$ ./ase/hotel/us/housekeeping/index.php
+RewriteRule ^ase/hotel/us/housekeeping/index/p/(..*)$ ./ase/hotel/us/housekeeping/index.php?p=$1
+
+RewriteRule ^account/logout(|/)$ logout.php
+RewriteRule ^forgot(|/)$ forgot.php
+
+RewriteRule ^sair(|/)$ sair.php
+RewriteRule ^onlines(|/)$ onlines.php
+
+RewriteRule ^hk(|/)$ ./hk/news.php
+RewriteRule ^hk/write_news(|/)$ ./hk/write_news.php
+RewriteRule ^hk/news(|/)$ ./hk/news.php
+RewriteRule ^onlines(|/)$ onlines.php
+
+RewriteRule ^articles/category/(.*)$ ./articles.php?category=$1
+RewriteRule ^comunidade/articles(|/)$ articles.php
+RewriteRule ^vipusers(|/)$ vipusers.php
+RewriteRule ^articles/(.*)$ ./articles.php?web-articles-id=$1
+
+RewriteRule ^captcha(|/)$ error.php
+RewriteRule ^captcha/monofont.ttf(|/)$ error.php
+RewriteRule ^captcha/php-captcha.inc.php(|/)$ error.php
+
+RewriteRule ^client(|/)$ client.php
+RewriteRule ^flash_client_error(|/)$ clientutils.php
+
+RewriteRule ^comunidade/fansites(|/)$ fansites.php
+RewriteRule ^comunidade(|/)$ community.php
+
+RewriteRule ^comunidade/staff(|/)$ staff.php
+RewriteRule ^comunidade/criadores(|/)$ criadores.php
+RewriteRule ^comunidade/gerentes(|/)$ gerentes.php
+RewriteRule ^comunidade/administradores(|/)$ administradores.php
+RewriteRule ^comunidade/moderadores(|/)$ moderadores.php
+RewriteRule ^comunidade/embaixadores(|/)$ embaixadores.php
+
+RewriteRule ^status(|/)$ status.php
+RewriteRule ^referidos(|/)$ referidos.php
+RewriteRule ^loja(|/)$ loja.php
+RewriteRule ^register(|/)$ registro.php
+RewriteRule ^vip(|/)$ /vip.php
+
+RewriteRule ^data_classes(|/)$ error.php
+RewriteRule ^data_classes/server-data.php_data_classes-config.php(|/)$ error.php
+RewriteRule ^data_classes/server-data.php_data_classes-core.php(|/)$ error.php
+RewriteRule ^data_classes/server-data.php_data_classes-mus.php(|/)$ error.php
+RewriteRule ^data_classes/server-data.php_data_classes-news.php(|/)$ error.php
+RewriteRule ^data_classes/server-data.php_data_classes-session.php(|/)$ error.php
+RewriteRule ^data_classes/server-data.php_data_classes-config.php(|/)$ ./data_classes/config.php
+
+
+RewriteRule ^groupsdata/(..*)$ ./groups.php?web-group-id=$1
+
+RewriteRule ^help(|/)$ help.php
+RewriteRule ^help/(..*)$ ./help.php?web-faq-id=$1
+
+RewriteRule ^habblet/(|/)$ error.php 
+RewriteRule ^habblet/cproxy?habbletKey=news$ client_news.php 
+RewriteRule ^habblet/cproxy(|/)$ ./cproxy.php
+RewriteRule ^habblet/cproxy?habbletKey=([^/]+)(|/)$ ./habblet/cproxy.php?habbletKey=$1
+
+RewriteRule ^home(|/)$ home.php
+RewriteRule ^home/(..*)$ ./home.php?web-home-name=$1
+
+RewriteRule ^index(|/)$ index.php
+
+RewriteRule ^maintenance(|/)$ maintenance.php
+
+RewriteRule ^me(|/)$ me.php
+RewriteRule ^myhabbo(|/)$ ./error.php
+RewriteRule ^myhabbo/rating/rate(|/)$ ./myhabbo/rating_rate.php
+RewriteRule ^myhabbo/rating/reset_ratings(|/)$ ./myhabbo/rating_reset_ratings.php
+
+RewriteRule ^quickregister/back(|/)$ /register.php?stap=7
+RewriteRule ^quickregister/cancel(|/)$ /register.php?cancal
+RewriteRule ^quickregister/backToAccountDetails(|/)$ /register.php?stap=8
+
+RewriteRule ^quickregister/start(|/)$ /register.php?stap=1
+RewriteRule ^quickregister/start/error/([^/]+)(|/)$ /register.php?stap=1&errors=$1
+RewriteRule ^quickregister/age_gate_submit(|/)$ /register.php?stap=2
+
+RewriteRule ^quickregister/email_password(|/)$ /register.php?stap=3
+RewriteRule ^quickregister/email_password/error/([^/]+)(|/)$ /register.php?stap=3&errors=$1
+RewriteRule ^quickregister/email_password_submit(|/)$ /register.php?stap=4
+
+RewriteRule ^quickregister/captcha(|/)$ /register.php?stap=5
+RewriteRule ^quickregister/captcha/error/([^/]+)(|/)$ /register.php?stap=5&errors=$1
+RewriteRule ^quickregister/captcha_submit(|/)$ /register.php?stap=6
+
+RewriteRule ^quickregister/refresh_avatars(|/)$ /register.php?stap=9
+
+RewriteRule ^articles(|/)$ articles.php
+RewriteRule ^papers/privacy(|/)$ privacy.php
+
+RewriteRule ^safety/safety_tips(|/)$ safety.php
+RewriteRule ^safety/habbo_way(|/)$ habbo_way.php
+
+RewriteRule ^badges(|/)$ badges.php
+
+RewriteRule ^profile(|/)$ profile.php
+RewriteRule ^profile/([^/]+)(|/)$ ./profile.php?web-profile-tab=$1
+
+RewriteRule ^tag(|/)$ ./tag.php
+RewriteRule ^tag/([^/]+)(|/)$ ./tag.php?tag=$1
+
+RewriteRule ^xml(|/)$ ./error.php
+RewriteRule ^faq(|/)$ ./faq.php
+RewriteRule ^xml/badge_data.xml(|/)$ error.php
+RewriteRule ^xml/badge_data_xml.xml(|/)$ error.php
+RewriteRule ^xml/badge_editor.xml(|/)$ error.php
+RewriteRule ^habbo-imaging(|/)$ error.php
+
+RewriteRule ^theallseeingeye/hotel/br/housekeeping(|/)$ ./theallseeingeye/hotel/br/housekeeping/index.php
+RewriteRule ^theallseeingeye/hotel/br/housekeeping/index/p/(..*)$ ./theallseeingeye/hotel/br/housekeeping/index.php?p=$1
+
+RewriteRule ^flash_client_error(|/)$ clientutils.php
+RewriteRule ^groups/(..*)$ ./groupsdata.php?web-group-id=$1
+RewriteRule ^groups/([^/]+)(|/)$ ./groupsdata.php?web-group-id=$1
+
+RewriteRule ^habbo-imaging/badge/([^/]+) /habbo-imaging/badge.php?badge=$1
+RewriteRule ^habbo-imaging/head/([^/]+) /habbo-imaging/head.php?figure=$1
+
+RewriteRule ^community/topstats(|/)$ topstats.php
+
+RewriteRule ^hall/inicio(|/)$ hall.php
+RewriteRule ^hall/(.*)$ /hall-user.php?user=$1

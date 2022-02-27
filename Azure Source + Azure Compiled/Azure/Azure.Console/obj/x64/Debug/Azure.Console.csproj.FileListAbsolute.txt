@@ -1,0 +1,4 @@
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Console\bin\x64\Debug\Azure.Console.dll
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Console\bin\x64\Debug\Azure.Console.pdb
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Console\obj\x64\Debug\Azure.Console.dll
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Console\obj\x64\Debug\Azure.Console.pdb

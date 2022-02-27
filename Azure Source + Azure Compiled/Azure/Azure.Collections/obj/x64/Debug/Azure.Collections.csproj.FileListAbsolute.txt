@@ -1,0 +1,4 @@
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Collections\bin\x64\Debug\Azure.Collections.dll
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Collections\bin\x64\Debug\Azure.Collections.pdb
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Collections\obj\x64\Debug\Azure.Collections.dll
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Collections\obj\x64\Debug\Azure.Collections.pdb

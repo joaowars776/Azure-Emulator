@@ -1,0 +1,9 @@
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Licensing\bin\Debug\Azure.Licensing.exe.config
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Licensing\bin\Debug\Azure.Licensing.exe
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Licensing\bin\Debug\Azure.Licensing.pdb
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Licensing\obj\Debug\Azure.Licensing.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Licensing\obj\Debug\Azure.Licensing.Main.resources
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Licensing\obj\Debug\Azure.Licensing.Properties.Resources.resources
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Licensing\obj\Debug\Azure.Licensing.csproj.GenerateResource.Cache
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Licensing\obj\Debug\Azure.Licensing.exe
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Licensing\obj\Debug\Azure.Licensing.pdb

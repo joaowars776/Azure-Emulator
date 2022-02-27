@@ -1,0 +1,5 @@
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Encryption\bin\x64\Debug\Azure.Encryption.dll
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Encryption\bin\x64\Debug\Azure.Encryption.pdb
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Encryption\obj\x64\Debug\Azure.Encryption.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Encryption\obj\x64\Debug\Azure.Encryption.dll
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Encryption\obj\x64\Debug\Azure.Encryption.pdb

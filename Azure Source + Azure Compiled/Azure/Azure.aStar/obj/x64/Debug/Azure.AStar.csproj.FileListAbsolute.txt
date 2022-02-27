@@ -1,0 +1,4 @@
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Astar\bin\x64\Debug\Azure.AStar.dll
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Astar\bin\x64\Debug\Azure.AStar.pdb
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Astar\obj\x64\Debug\Azure.AStar.dll
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Astar\obj\x64\Debug\Azure.AStar.pdb

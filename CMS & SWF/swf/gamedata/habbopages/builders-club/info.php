@@ -1,0 +1,24 @@
+Assinatura Clube do Arquiteto
+<span class="padding-top"><br></span><h1>Informaçoes gerais sobre o Clube do Arquiteto</h1><span class="padding-top"><br></span>
+<span class="padding-top"><br></span><h2>O que é o Clube do Arquiteto?</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>O Clube do Arquiteto chegou para revolucionar a maneira de construir quartos dentro do nosso Hotel e tornar ainda mais fácil deixar a sua criatividade fluir. </p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Versão de Teste Grátis</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Todos nós Habbos temos uma versão de teste gratuita à nossa disposição, basta acessar o seu Depósito do Arquiteto e começar a testar à vontade. A versão grátis põe à sua disposição um limite básico de Mobis para que você possa testar o Clube do Arquiteto. Para desbloquear os seus quartos do Clube do Arquiteto, será necessário se inscrever no clube.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Inscrição</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Ao se tornar um membro do clube, seus quartos construídos com o Clube do Arquiteto da versão de teste serão automaticamente desbloqueados para receber visitas. Com os quartos desbloqueados você terá a opção de selecionar o tipo de acesso ao seu quarto (aberto, privado, invisível ou fechado), e claro, o limite de Mobis disponíveis será aumentado de acordo com a inscrição que você possuir.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Usando Mobis do Clube do Arquiteto</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>- Para usar Mobis do clube, arraste-os do Depósito diretamente para o seu quarto.<br>
+- Para devolver Mobis do Clube também é fácil, use o botão escolher.<br>
+- Você só poderá usar Mobis do clube em seus próprios quartos. Você não poderá usar Mobis do clube em quartos de grupo ou espaços alugados.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Seleção de Mobis</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>O Clube do Arquiteto oferece uma grande variedade de linhas de Mobis decorativos para usar em seus projetos. Isto inclui as linhas permanentes da nossa loja, bem como itens lançados em campanhas antigas que vêm e vão dentro do nosso Hotel.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Editor de chão</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Com o editor de chão você pode criar um chão personalizado facilmente, assim como ter a habilidade de mover portas e mudar a altura das paredes ao entrar no quarto. Acesse o editor digitando :floor ou :bcfloor. Não se preocupe, se você esquecer de renovar a sua inscrição, os quartos que tiveram o chão editado NÃO serão alterados para a versão de chão original. O chão editado permanece e o quarto permanece aberto para visitantes (desde que não haja mobis do clube no quarto).</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Limite de Mobis</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>- Você só pode ter um número determinado de Mobis do Clube do Arquiteto em seus quartos. Todos os novos usuários começam com um limite básico de Mobis na versão de teste.<br>
+-  Ao se tornar um membro do clube você recebe automaticamente um aumento no limite de mobis proporcional a sua assinatura (400, 500 ou 1000).<br>
+- No caso das assinaturas com renovação automática (disponíveis apenas para Portugal), seu limite é extendido a cada renovação em 250 mobis a mais. Exemplo: no seu primeiro mês o limite era de 1000, no segundo mês seu limite será 1250.<br>
+- Você também poderá adquirir um &quot;Upgrade&quot; para turbinar o seu limite de mobis do Clube. Esta opção é apenas uma extensão para o limite de uso dos Mobis em sua inscrição. Para adquirir, clique em 'Upgrades do CA' dentro do seu depósito e escolha uma opção (+45 +250 +600).</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Minha Assinatura Expirou  </h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Se a sua inscrição terminar, os seus quartos com mobis do clube permanecerão intactos, apenas o acesso a visitantes será interrompido. Ao reativar a sua inscrição, todos os seus quartos com mobis do clube serão desbloqueados para visitantes automaticamente.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Lembre-se que o uso do Editor de Chão é de sua TOTAL responsabilidade! Algumas alterações podem ser irreversíveis e você pode perder o quarto.</p><span class="padding-bottom"><br></span>

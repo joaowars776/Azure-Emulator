@@ -1,0 +1,14 @@
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\bin\Debug\Azure.Database.dll
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\bin\Debug\Azure.Database.pdb
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\bin\Debug\Azure.Console.dll
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\bin\Debug\Azure.Console.pdb
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\obj\Debug\Azure.Database.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\obj\Debug\Azure.Database.dll
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\obj\Debug\Azure.Database.pdb
+C:\Users\Lucas\Desktop\Habbo\Bluz Source\Bluz Source\Azure\Azure.Database\bin\Debug\Azure.Database.dll
+C:\Users\Lucas\Desktop\Habbo\Bluz Source\Bluz Source\Azure\Azure.Database\bin\Debug\Azure.Database.pdb
+C:\Users\Lucas\Desktop\Habbo\Bluz Source\Bluz Source\Azure\Azure.Database\bin\Debug\Azure.Console.dll
+C:\Users\Lucas\Desktop\Habbo\Bluz Source\Bluz Source\Azure\Azure.Database\bin\Debug\Azure.Console.pdb
+C:\Users\Lucas\Desktop\Habbo\Bluz Source\Bluz Source\Azure\Azure.Database\obj\Debug\Azure.Database.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Habbo\Bluz Source\Bluz Source\Azure\Azure.Database\obj\Debug\Azure.Database.dll
+C:\Users\Lucas\Desktop\Habbo\Bluz Source\Bluz Source\Azure\Azure.Database\obj\Debug\Azure.Database.pdb
