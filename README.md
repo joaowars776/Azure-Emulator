@@ -1,4 +1,4 @@
-# Azure Emulator v2.0.100 Build 190 Pack
+# Azure Emulator v2.0.100 Build 190 Complete Pack
 
 Ready for localhost
 
